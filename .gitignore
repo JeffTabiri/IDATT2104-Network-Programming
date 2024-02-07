@@ -36,3 +36,14 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/checkstyle-idea.xml
+/.idea/encodings.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/artifacts/Client_jar.xml
+/.idea/misc.xml
+/.idea/codeStyles/Project.xml
+/.idea/uiDesigner.xml
+/out/artifacts/Server/Server.jar
+/.idea/vcs.xml
+/src/main/resources/META-INF/MANIFEST.MF
+/out/artifacts/Client_jar/Client.jar
